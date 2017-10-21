@@ -14,7 +14,7 @@ TypeScript入门代码用中文写更能被新手理解, 可惜没有看到类�
 
 二 [问个好吧](#%E4%BA%8C-%E9%97%AE%E4%B8%AA%E5%A5%BD%E5%90%A7)
 
-三 [用TypeScript算术](#用typescript算术)
+三 [用TypeScript算术](#三-用typescript算术)
 
 ## 一 准备编程
 
